@@ -10,6 +10,9 @@ author:
   name:           'Seth Neller'
   url:            https://twitter.com/sethneller
 
+github:
+  repo:           https://github.com/sethneller/sethneller.github.io
+
 # Gems
 plugins:
   - jekyll-paginate
