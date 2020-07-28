@@ -3,6 +3,8 @@ layout: page
 title: Teaching
 ---
 
+<hr>
+
 ### Teaching Assistant
 
 * Managerial Economics (MBA) (2020)
