@@ -233,11 +233,11 @@ a.sidebar-nav-item:focus {
 
 /* Custom */
 .theme-base-0g .sidebar {
-  background-color: #005f86;
+  background-color: #333f48;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
-  color: #005f86;
+  color: #333f48;
 }
 
 
