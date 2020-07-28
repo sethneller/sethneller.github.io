@@ -11,7 +11,7 @@ Also:
 <- that picture is my son, who is much nicer to look at than I am.
 
 # Fields
-Health Economics, Public Economics, and Applied Economics
+Health Economics, Public Economics
 
 # Expected Graduation Date
 May 2022
