@@ -5,7 +5,7 @@ title: Research
 
 <hr>
 
-<h3 style="color:blue;"> Work in Progress </h3>
+<h3 style="color:#bf5700;"> Work in Progress </h3>
 
 #### *The Impact of Youth Medicaid Eligibility on Adult Incarceration*
 
