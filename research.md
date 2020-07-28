@@ -29,7 +29,7 @@ title: Research
       <p align="justify"> This project will assess the lifelong impact of early-life exposure to air pollution on longevity, disability and economic outcomes in late adulthood. In order to do so, we will link historical California wildfire data to Social Security Administration birth/death records and economic outcomes in the Census/ACS by using restricted data from the Census Bureau. To the best of our knowledge, this will be the first paper to assess the effects of air pollution over the entire lifespan when the exposure occurs in utero or during the first year of life.</p>
   </details>
   
-#### What is a NICU Worth? Meausring the Returns of Early-Life Healthcare Accessibility [Part of Texas ERC Proposal #119, Texas DSHS Proposal #20-012]
+#### What is a NICU Worth? Measuring the Returns of Early-Life Healthcare Accessibility [Part of Texas ERC Proposal #119, Texas DSHS Proposal #20-012]
 
 <details>
   <summary> Project Summary </summary>
