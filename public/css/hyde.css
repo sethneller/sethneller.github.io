@@ -231,13 +231,13 @@ a.sidebar-nav-item:focus {
   color: #6a9fb5;
 }
 
-/* Custom */
+/* Custom #005f86 was the previous color */
 .theme-base-0g .sidebar {
-  background-color: #005f86;
+  background-color: #05386b;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
-  color: #005f86;
+  color: #05386b;
 }
 
 
