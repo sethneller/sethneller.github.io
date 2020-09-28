@@ -5,7 +5,7 @@ title: Research
 
 <hr>
 
-<h3 style="color:#bf5700;"> Work in Progress </h3>
+<h3 style="color:#bf5700;"> Working Papers </h3>
 
 #### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a>
 
@@ -16,7 +16,9 @@ title: Research
     <p align="justify"> This paper identifies an important spillover associated with public health insurance: reduced incarceration. In 1990, Congress passed legislation that  increased Medicaid eligibility for individuals born after September 30, 1983. We show that Black children born just after the cutoff are 5 percent less likely to be incarcerated by age 28, driven primarily by a decrease in incarcerations connected to financially motivated offenses. Children of other races, who experienced almost no gain in Medicaid coverage as a result of the policy, demonstrate no such declines. We find that reduced incarceration in adulthood substantially offsets the initial costs of expanding eligibility. </p>
   
 </details>
-  
+
+<h3 style="color:#bf5700;"> Work in Progress </h3>
+
 #### *How Does Medicare Affect Physician Practice Structure?*
 *Draft coming soon*
 
