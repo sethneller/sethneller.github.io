@@ -7,7 +7,7 @@ title: Research
 
 <h3 style="color:#bf5700;"> Work in Progress </h3>
 
-#### *The Impact of Youth Medicaid Eligibility on Adult Incarceration*
+#### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a>
 
 *Joint w/ Sam Arenberg and Sam Stripling*
 
@@ -17,10 +17,8 @@ title: Research
   
 </details>
   
-*Draft coming soon*
-
 #### *How Does Medicare Affect Physician Practice Structure?*
-*Abstract and Draft coming soon*
+*Draft coming soon*
 
 #### *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure [Part of Census RDC Proposal #2272]*
 
