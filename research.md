@@ -13,7 +13,7 @@ title: Research
 
 <details>
   <summary> Abstract </summary>
-    <p align="justify" font-size:90%> This paper identifies an important spillover associated with public health insurance: reduced incarceration. In 1990, Congress passed legislation that  increased Medicaid eligibility for individuals born after September 30, 1983. We show that Black children born just after the cutoff are 5 percent less likely to be incarcerated by age 28, driven primarily by a decrease in incarcerations connected to financially motivated offenses. Children of other races, who experienced almost no gain in Medicaid coverage as a result of the policy, demonstrate no such declines. We find that reduced incarceration in adulthood substantially offsets the initial costs of expanding eligibility. </p>
+    <p align="justify" style="font-size:90%"> This paper identifies an important spillover associated with public health insurance: reduced incarceration. In 1990, Congress passed legislation that  increased Medicaid eligibility for individuals born after September 30, 1983. We show that Black children born just after the cutoff are 5 percent less likely to be incarcerated by age 28, driven primarily by a decrease in incarcerations connected to financially motivated offenses. Children of other races, who experienced almost no gain in Medicaid coverage as a result of the policy, demonstrate no such declines. We find that reduced incarceration in adulthood substantially offsets the initial costs of expanding eligibility. </p>
 </details>
  
 #### <a href="https://sethneller.github.io/papers/Practice_structure.pdf">*How Do Medicare Payments Influence Physician Practice Structure?*</a>
