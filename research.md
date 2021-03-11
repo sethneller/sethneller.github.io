@@ -7,7 +7,8 @@ title: Research
 
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
-#### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> _(Revise & Resubmit at AEJ:Applied)_
+#### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> 
+_(Revise & Resubmit at AEJ:Applied)_
 
 *Joint w/ Sam Arenberg and Sam Stripling*
 
@@ -17,7 +18,8 @@ title: Research
 </details>
 
 
-#### <a href="https://sethneller.github.io/papers/Practice_structure.pdf">*How Do Medicare Payments Influence Physician Practice Structure?*</a> _(Under Review)_
+#### <a href="https://sethneller.github.io/papers/Practice_structure.pdf">*How Do Medicare Payments Influence Physician Practice Structure?*</a> 
+_(Under Review)_
 
 <details>
   <summary> Abstract </summary>
