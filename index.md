@@ -11,4 +11,3 @@ Health Economics, Public Economics
 
 # Expected Graduation Date
 May 2022
-_
