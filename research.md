@@ -34,12 +34,23 @@ _(Under Review)_
 
 <details>
   <summary> Project Summary </summary>
-      <p align="justify"> This project will assess the lifelong impact of early-life exposure to air pollution on longevity, disability and economic outcomes in late adulthood. In order to do so, we will link historical California wildfire data to Social Security Administration birth/death records and economic outcomes in the Census/ACS by using restricted data from the Census Bureau. To the best of our knowledge, this will be the first paper to assess the effects of air pollution over the entire lifespan when the exposure occurs in utero or during the first year of life.</p>
+      <p align="justify"> This paper assesses the impact of in utero and early childhood wildfire exposure on lifelong outcomes, including longevity, disability, human capital accumulation, and economic achievement in mid-to-late adulthood. To do so, we link pollution exposure from mid-20th century California wildfires to four decades of birth cohorts (born 1930-1969). These cohorts are in turn linked to administrative birth and death records from the Social Security Administration and restricted Decennial Census and American Community Survey data to evaluate their long-term outcomes. To the best of our knowledge, this is the first paper to causally assess both the long-run effects of wildfire exposure as well as the effects of air pollution over the entire lifespan when the exposure occurs in utero or during the first years of life. </p>
   </details>
   
-#### *What is a NICU Worth? Measuring the Returns of Early-Life Healthcare Accessibility [Part of Texas ERC Proposal #119, Texas DSHS Proposal #20-012]*
+#### *The Later-life Impacts of Early-life Lead Exposure: Evidence from Changes in Vehicle Emissions in the United States [Part of Census RDC Proposal #2272]*
+
+*Joint w/ Sam Arenberg*
 
 <details>
   <summary> Project Summary </summary>
-      <p align="justify"> This project will assess the educational and labor market returns to neonatal healthcare resources by evaluating the effect of entry and exits of neonatal intensive care units (“NICUs”) in Texas using a differences-in-differences framework. In order to do so, I will link Texas Vital Statistics data from 1986-2004 to longitudinal education and labor market data housed in the Texas Education Research center. This project will build on existing literature by evaluating impacts across a wide variety of neonatal health conditions and by utilizing complementary regression discontinuity and difference-in-discontinuities methods to evaluate changes in the value of medical technology over time and explore mechanisms.</p>
+      <p align="justify"> Beginning in the mid-1970s, airborne lead levels began to decrease sharply due to environmental regulation that reduced the content of lead in gasoline and the improved vehicle emissions technology. However, the long-run benefits of near-elimination of lead emissions on economic outcomes and racial equality are not well understood. This project utilizes restricted Census and Social Security data to link adult outcomes to exact place of birth and related lead exposure to assess the impact of the phaseout of leaded gasoline on human capital achievement, earnings, and other measures of well-being. </p>
+  </details>
+  
+  #### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Proposal #2272]*
+
+*Joint w/ Sam Arenberg*
+
+<details>
+  <summary> Project Summary </summary>
+      <p align="justify"> This project studies the effect of the Hill-Burton hospital construction program to assess the long-term impact of childhood hospital access on health, human capital, and economic outcomes in adulthood. To do so, we will leverage variation in timing of Hill-Burton hospital construction, linked to Social Security Administration birth records and outcomes in the restricted versions of the Decennial Census and American Community surveys. Because the Hill-Burton program disproportionately increased hospitals in predominately Black areas, we examine whether these expanded medical resources closed gaps in outcomes among Black Americans. </p>
   </details>
