@@ -46,7 +46,7 @@ _(Under Review)_
       <p align="justify"> Beginning in the mid-1970s, airborne lead levels began to decrease sharply due to environmental regulation that reduced the content of lead in gasoline and the improved vehicle emissions technology. However, the long-run benefits of near-elimination of lead emissions on economic outcomes and racial equality are not well understood. This project utilizes restricted Census and Social Security data to link adult outcomes to exact place of birth and related lead exposure to assess the impact of the phaseout of leaded gasoline on human capital achievement, earnings, and other measures of well-being. </p>
   </details>
   
-  #### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Proposal #2272]*
+#### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Proposal #2272]*
 
 *Joint w/ Sam Arenberg*
 
