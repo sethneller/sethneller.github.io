@@ -7,10 +7,19 @@ title: Research
 
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
-#### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> 
+#### *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure [Job Market Paper]* <br/>
+_with Sam Arenberg_ <br/>
+_(Draft Coming Soon)_
+
+<details>
+  <summary> Abstract </summary>
+      <p align="justify"> This paper assesses the impact of in utero and early-childhood exposure to wildfire smoke on longevity as well as economic achievement, human capital accumulation, and disability in mid-to-late adulthood. To identify areas that were exposed to wildfire pollution, we leverage mid-20th century (1930-1969) California wildfires and smoke dispersion modeling. We then combine these wildfire pollution data with comprehensive, restricted-use administrative data from the Social Security Administration and Census Bureau.  These linked data allow us to measure childhood exposure to wildfire smoke for four decades of birth cohorts and to observe a rich set of later-life outcomes including mortality, economic achievement, educational attainment, and disability outcomes. Using this data, we estimate a cohort distributed leads-and-lags regression model, exploiting plausibly exogenous variation in smoke exposure in order to identify long-run effects. We find that moving from the 25th to 75th percentile of early-life wildfire smoke exposure results in 1.7 additional deaths before age 55 per 1,000 individuals, conditional on surviving past early childhood. Estimating these effects across ages 30 to 80 translates to 46 life years lost per 1,000 persons. We further find that smoke exposure results in unfavorable changes to a wide range of later-life outcomes across economic achievement, educational attainment, and disability measures. Using these results, we conservatively estimate that each child born in California during our sample period sustained, on average, ~$20,000 of discounted damages in lost life expectancy and lost earnings due to wildfire smoke. These findings suggest that warming temperatures, which exacerbate the duration and intensity of wildfire seasons, is already meaningfully affecting the life cycles of exposed children through increased smoke exposure. </p>
+  </details>
+
+#### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> <br/>
+_with Sam Arenberg and Sam Stripling_ <br/>
 _(Revise & Resubmit at AEJ: Applied)_
 
-*Joint w/ Sam Arenberg and Sam Stripling*
 
 <details>
   <summary> Abstract </summary>
@@ -26,29 +35,19 @@ _(Under Review)_
     <p align="justify" style="font-size:0.8em"> This paper exploits spatial discontinuities in Medicare payment rates to estimate the effect of reimbursements on primary care physicians’ choice of organizational structure. I find that a 1 percent increase in Medicare reimbursement leads to a 1.7 to 2.2 percentage point increase in primary care doctors who practice with a small group (defined as 25 providers or fewer). This effect is driven by changes in the tails of the practice size distribution: a 1.8 percentage point increase in physicians who are affiliated with the smallest (1- or 2-provider) practice groups with a corresponding decrease in physicians joining very large practices (≥ 150 providers). I do not, however, detect any evidence of physician sorting or bunching around the boundary in response to differential payment, supporting the underlying assumptions of my regression discontinuity design. Accordingly, my findings suggest that Medicare pricing may be a factor in the trend of consolidation in the physician and clinical services market. </p>
 </details>
 
+***
 <h3 style="color:#bf5700;"> Work in Progress </h3>
-
-#### *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure [Part of Census RDC Proposal #2272]*
-
-*Joint w/ Sam Arenberg*
-
-<details>
-  <summary> Project Summary </summary>
-      <p align="justify"> This paper assesses the impact of in utero and early childhood wildfire exposure on lifelong outcomes, including longevity, disability, human capital accumulation, and economic achievement in mid-to-late adulthood. To do so, we link pollution exposure from mid-20th century California wildfires to four decades of birth cohorts (born 1930-1969). These cohorts are in turn linked to administrative birth and death records from the Social Security Administration and restricted Decennial Census and American Community Survey data to evaluate their long-term outcomes. To the best of our knowledge, this is the first paper to causally assess both the long-run effects of wildfire exposure as well as the effects of air pollution over the entire lifespan when the exposure occurs in utero or during the first years of life. </p>
-  </details>
   
-#### *The Later-life Impacts of Early-life Lead Exposure: Evidence from Changes in Vehicle Emissions in the United States [Part of Census RDC Proposal #2272]*
-
-*Joint w/ Sam Arenberg*
+#### *The Later-life Impacts of Early-life Lead Exposure: Evidence from Changes in Vehicle Emissions in the United States [Part of Census RDC Proposal #2272]* <br/>
+_with Sam Arenberg_
 
 <details>
   <summary> Project Summary </summary>
       <p align="justify"> Beginning in the mid-1970s, airborne lead levels began to decrease sharply due to environmental regulation that reduced the content of lead in gasoline and the improved vehicle emissions technology. However, the long-run benefits of near-elimination of lead emissions on economic outcomes and racial equality are not well understood. This project utilizes restricted Census and Social Security data to link adult outcomes to exact place of birth and related lead exposure to assess the impact of the phaseout of leaded gasoline on human capital achievement, earnings, and other measures of well-being. </p>
   </details>
   
-#### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Proposal #2272]*
-
-*Joint w/ Sam Arenberg*
+#### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Proposal #2272]* <br/>
+_with Sam Arenberg_
 
 <details>
   <summary> Project Summary </summary>
