@@ -8,8 +8,8 @@ title: Research
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
 #### *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure [Job Market Paper]* <br/>
-_with Sam Arenberg_ <br/>
-_(Draft Coming Soon)_
+ <p style="font-size:80%;"> _with Sam Arenberg_ <br/>
+_(Draft Coming Soon)_ </p>
 
 <details>
   <summary> Abstract </summary>
@@ -17,8 +17,8 @@ _(Draft Coming Soon)_
   </details>
 
 #### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> <br/>
-_with Sam Arenberg and Sam Stripling_ <br/>
-_(Revise & Resubmit at AEJ: Applied)_
+<p style="font-size:80%;"> _with Sam Arenberg and Sam Stripling_ <br/>
+_(Revise & Resubmit at AEJ: Applied)_ </p>
 
 
 <details>
@@ -28,7 +28,7 @@ _(Revise & Resubmit at AEJ: Applied)_
 
 
 #### <a href="https://sethneller.github.io/papers/Practice_structure.pdf">*How Do Medicare Payments Influence Physician Practice Structure?*</a> 
-_(Under Review)_
+<p style="font-size:80%;"> _(Under Review)_ </p>
 
 <details>
   <summary> Abstract </summary>
@@ -39,7 +39,7 @@ _(Under Review)_
 <h3 style="color:#bf5700;"> Work in Progress </h3>
   
 #### *The Later-life Impacts of Early-life Lead Exposure: Evidence from Changes in Vehicle Emissions in the United States [Part of Census RDC Proposal #2272]* <br/>
-_with Sam Arenberg_
+<p style="font-size:80%;"> _with Sam Arenberg_ </p>
 
 <details>
   <summary> Project Summary </summary>
@@ -47,7 +47,7 @@ _with Sam Arenberg_
   </details>
   
 #### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Proposal #2272]* <br/>
-_with Sam Arenberg_
+<p style="font-size:80%;"> _with Sam Arenberg_ </p>
 
 <details>
   <summary> Project Summary </summary>
