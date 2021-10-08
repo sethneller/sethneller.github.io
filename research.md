@@ -8,8 +8,8 @@ title: Research
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
 #### *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure [Job Market Paper]* <br/>
- <p style="font-size:80%;"> _with Sam Arenberg_ <br/>
-_(Draft Coming Soon)_ </p>
+ <p style="font-size:70%;"><i> with Sam Arenberg <br/>
+ (Draft Coming Soon) </i></p>
 
 <details>
   <summary> Abstract </summary>
@@ -17,8 +17,8 @@ _(Draft Coming Soon)_ </p>
   </details>
 
 #### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> <br/>
-<p style="font-size:80%;"> _with Sam Arenberg and Sam Stripling_ <br/>
-_(Revise & Resubmit at AEJ: Applied)_ </p>
+<p style="font-size:70%;"><i> with Sam Arenberg and Sam Stripling <br/>
+ (Revise & Resubmit at AEJ: Applied) </i></p>
 
 
 <details>
@@ -28,7 +28,7 @@ _(Revise & Resubmit at AEJ: Applied)_ </p>
 
 
 #### <a href="https://sethneller.github.io/papers/Practice_structure.pdf">*How Do Medicare Payments Influence Physician Practice Structure?*</a> 
-<p style="font-size:80%;"> _(Under Review)_ </p>
+<p style="font-size:70%;"><i> (Under Review) </i></p>
 
 <details>
   <summary> Abstract </summary>
@@ -38,16 +38,16 @@ _(Revise & Resubmit at AEJ: Applied)_ </p>
 ***
 <h3 style="color:#bf5700;"> Work in Progress </h3>
   
-#### *The Later-life Impacts of Early-life Lead Exposure: Evidence from Changes in Vehicle Emissions in the United States [Part of Census RDC Proposal #2272]* <br/>
-<p style="font-size:80%;"> _with Sam Arenberg_ </p>
+#### *The Later-life Impacts of Early-life Lead Exposure: Evidence from Changes in Vehicle Emissions in the United States [Part of Census RDC Project #2272]* <br/>
+<p style="font-size:70%;"><i> with Sam Arenberg </i></p>
 
 <details>
   <summary> Project Summary </summary>
       <p align="justify" style="font-size:80%;"> Beginning in the mid-1970s, airborne lead levels began to decrease sharply due to environmental regulation that reduced the content of lead in gasoline and the improved vehicle emissions technology. However, the long-run benefits of near-elimination of lead emissions on economic outcomes and racial equality are not well understood. This project utilizes restricted Census and Social Security data to link adult outcomes to exact place of birth and related lead exposure to assess the impact of the phaseout of leaded gasoline on human capital achievement, earnings, and other measures of well-being. </p>
   </details>
   
-#### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Proposal #2272]* <br/>
-<p style="font-size:80%;"> _with Sam Arenberg_ </p>
+#### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Project #2272]* <br/>
+<p style="font-size:70%;"><i> with Sam Arenberg </i></p>
 
 <details>
   <summary> Project Summary </summary>
