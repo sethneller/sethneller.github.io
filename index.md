@@ -13,5 +13,5 @@ My research primarily focuses on the long-run effects of health shocks, particul
 In addition to my research in early-life determinants, I am also interested in the determinants of physician practice structure and treatment styles. You can view my <a href="https://sethneller.github.io/research.html">research page</a> for current and upcoming projects. </p>
 
 # Fields
-Health Economics, Public Economics, Environmental Economics
-
+**Primary:** Health Economics, Public Economics, Environmental Economics <br/>
+**Secondary:** Labor Economics, Economics of Crime
