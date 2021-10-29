@@ -37,7 +37,31 @@ title: Research
 
 ***
 <h3 style="color:#bf5700;"> Work in Progress </h3>
+
+#### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Project #2272]* <br/>
+<p style="font-size:70%;"><i> with Sam Arenberg </i></p>
+
+<details>
+ <summary> Project Summary </summary>
+     <p align="justify" style="font-size:80%;"> This project studies the effect of the Hill-Burton hospital construction program to assess the long-term impact of childhood hospital access on health, human capital, and economic outcomes in adulthood. To do so, we will leverage variation in timing of Hill-Burton hospital construction, linked to Social Security Administration birth records and outcomes in the restricted versions of the Decennial Census and American Community surveys. Because the Hill-Burton program disproportionately increased hospitals in predominately Black areas, we examine whether these expanded medical resources closed gaps in outcomes among Black Americans. </p>
+  </details>
   
+#### *Air Pollution, Educational Outcomes, and Long-Term Incarceration [Part of Texas ERC Project #155]* <br/>
+<p style="font-size:70%;"><i> with Anjali P. Verma and Sam Arenberg </i></p>
+
+<details>
+ <summary> Project Summary </summary>
+     <p align="justify" style="font-size:80%;"> There is now substantial evidence that air pollution negatively impacts student outcomes. However, less is known about the mechanisms, critical periods, and potential long-term consequences of pollution exposure in later childhood and early adolescence. This project will utilize rich longitudinal data from the Texas Educational Research Center on student outcomes and school characteristics, linked with later-life incarceration data to better understand the impacts of air pollution and its later-life outcomes. </p>
+  </details>
+
+#### *How Does Opioid Prevalence Affect Surgery Decisions?* <br/>
+<p style="font-size:70%;"><i> with David Beheshti </i></p>
+
+<details>
+ <summary> Project Summary </summary>
+     <p align="justify" style="font-size:80%;"> This paper studies how the prevalence of opioids affects joint physician-patient decisions over medical procedures. Following Alpert et al. (2019), we utilize variation in OxyContin exposure due to state policies that affected OxyContin's marketing and market entry. Preliminary results suggest that higher availability of opioids led to a substantial increase in the number of discretionary surgical discharges (e.g., knee replacements, hip replacements, and back surgeries), but did not meaningfully affect discharges for non-discretionary surgical procedures or medical discharges. </p>
+  </details>
+
 #### *The Later-life Impacts of Early-life Lead Exposure: Evidence from Changes in Vehicle Emissions in the United States [Part of Census RDC Project #2272]* <br/>
 <p style="font-size:70%;"><i> with Sam Arenberg </i></p>
 
@@ -46,10 +70,4 @@ title: Research
       <p align="justify" style="font-size:80%;"> Beginning in the mid-1970s, airborne lead levels began to decrease sharply due to environmental regulation that reduced the content of lead in gasoline and the improved vehicle emissions technology. However, the long-run benefits of near-elimination of lead emissions on economic outcomes and racial equality are not well understood. This project utilizes restricted Census and Social Security data to link adult outcomes to exact place of birth and related lead exposure to assess the impact of the phaseout of leaded gasoline on human capital achievement, earnings, and other measures of well-being. </p>
   </details>
   
-#### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Project #2272]* <br/>
-<p style="font-size:70%;"><i> with Sam Arenberg </i></p>
 
-<details>
- <summary> Project Summary </summary>
-     <p align="justify" style="font-size:80%;"> This project studies the effect of the Hill-Burton hospital construction program to assess the long-term impact of childhood hospital access on health, human capital, and economic outcomes in adulthood. To do so, we will leverage variation in timing of Hill-Burton hospital construction, linked to Social Security Administration birth records and outcomes in the restricted versions of the Decennial Census and American Community surveys. Because the Hill-Burton program disproportionately increased hospitals in predominately Black areas, we examine whether these expanded medical resources closed gaps in outcomes among Black Americans. </p>
-  </details>
