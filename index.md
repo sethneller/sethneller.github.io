@@ -14,6 +14,6 @@ In addition to my research in early-life determinants, I am also interested in t
 
 # Fields
 <p style="font-size:80%;">
-**Primary:** Health Economics, Public Economics, Environmental Economics <br/>
-**Secondary:** Labor Economics, Economics of Crime
+  <b>Primary:</b> Health Economics, Public Economics, Environmental Economics <br/>
+<b>Secondary:</b> Labor Economics, Economics of Crime
 </p>
