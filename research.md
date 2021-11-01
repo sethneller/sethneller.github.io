@@ -43,7 +43,7 @@ title: Research
 
 <details>
  <summary> Project Summary </summary>
-     <p align="justify" style="font-size:80%;"> This project studies the effect of the Hill-Burton hospital construction program to assess the long-term impact of childhood hospital access on health, human capital, and economic outcomes in adulthood. To do so, we will leverage variation in timing of Hill-Burton hospital construction, linked to Social Security Administration birth records and outcomes in the restricted versions of the Decennial Census and American Community surveys. Because the Hill-Burton program disproportionately increased hospitals in predominately Black areas, we examine whether these expanded medical resources closed gaps in outcomes among Black Americans. </p>
+     <p align="justify" style="font-size:80%;"> This project will study the long-term impacts of childhood hospital access on health, human capital, and economic outcomes in adulthood. To do so, we will leverage variation in childhood hospital access from the Hill-Burton hospital construction program, linked to administrative birth and death records as well as outcomes in the restricted-use Decennial Census and American Community Surveys. Because the Hill-Burton program disproportionately increased hospitals in predominately Black areas, we examine whether these expanded medical resources closed gaps in outcomes among Black Americans. </p>
   </details>
   
 #### *Air Pollution, Educational Outcomes, and Long-Term Incarceration [Part of Texas ERC Project #155]* <br/>
