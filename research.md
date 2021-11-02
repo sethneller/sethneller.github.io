@@ -7,9 +7,8 @@ title: Research
 
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
-#### *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure [Job Market Paper]* <br/>
- <p style="font-size:70%;"><i> with Sam Arenberg <br/>
- (Draft Coming Soon) </i></p>
+#### <a href="https://sethneller.github.io/papers/neller_jmp_ashes_to_ashes.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure [Job Market Paper]*</a> <br/>
+ <p style="font-size:70%;"><i> with Sam Arenberg </i></p>
 
 <details>
  <summary> Abstract </summary>
