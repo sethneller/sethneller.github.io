@@ -8,7 +8,7 @@ title: Research
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
 #### <a href="https://sethneller.github.io/papers/neller_jmp_ashes_to_ashes.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure [Job Market Paper]*</a> <br/>
- <p style="font-size:70%;"><i> with Sam Arenberg </i></p>
+ <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
 
 <details>
  <summary> Abstract </summary>
@@ -16,7 +16,7 @@ title: Research
   </details>
 
 #### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> <br/>
-<p style="font-size:70%;"><i> with Sam Arenberg and Sam Stripling <br/>
+<p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> and <a href="https://samstripling.com/">Sam Stripling</a> <br/>
  (Revise & Resubmit at AEJ: Applied) </i></p>
 
 
@@ -38,7 +38,7 @@ title: Research
 <h3 style="color:#bf5700;"> Work in Progress </h3>
 
 #### *Does a Stitch in Time Save Nine? The Long-Run Effects of Hospital Access [Part of Census RDC Project #2272]* <br/>
-<p style="font-size:70%;"><i> with Sam Arenberg </i></p>
+<p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
 
 <details>
  <summary> Project Summary </summary>
@@ -46,7 +46,7 @@ title: Research
   </details>
   
 #### *Air Pollution, Educational Outcomes, and Long-Term Incarceration [Part of Texas ERC Project #155]* <br/>
-<p style="font-size:70%;"><i> with Anjali P. Verma and Sam Arenberg </i></p>
+<p style="font-size:70%;"><i> with <a href="https://anjalipverma.github.io/">Anjali P. Verma</a> and <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
 
 <details>
  <summary> Project Summary </summary>
@@ -54,7 +54,7 @@ title: Research
   </details>
 
 #### *How Does Opioid Prevalence Affect Surgery Decisions?* <br/>
-<p style="font-size:70%;"><i> with David Beheshti </i></p>
+<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> </i></p>
 
 <details>
  <summary> Project Summary </summary>
@@ -62,7 +62,7 @@ title: Research
   </details>
 
 #### *The Later-life Impacts of Early-life Lead Exposure: Evidence from Changes in Vehicle Emissions in the United States [Part of Census RDC Project #2272]* <br/>
-<p style="font-size:70%;"><i> with Sam Arenberg </i></p>
+<p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
 
 <details>
  <summary> Project Summary </summary>
