@@ -65,7 +65,7 @@ title: Research
 <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
 
 <details>
- <summary> Project Summary </summary>
+ <summary style="font-size:10%;"> Project Summary </summary>
       <p align="justify" style="font-size:80%;"> Beginning in the mid-1970s, airborne lead levels began to decrease sharply due to environmental regulation that reduced the content of lead in gasoline and the improved vehicle emissions technology. However, the long-run benefits of near-elimination of lead emissions on economic outcomes and racial equality are not well understood. This project utilizes restricted Census and Social Security data to link adult outcomes to exact place of birth and related lead exposure to assess the impact of the phaseout of leaded gasoline on human capital achievement, earnings, and other measures of well-being. </p>
   </details>
   
