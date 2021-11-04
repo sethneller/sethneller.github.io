@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# About Me
+## About Me
 <p align="justify" style="font-size:80%;"> I am a health and applied microeconomist from Searcy, Arkansas. I'll be graduating from the University of Texas at Austin in May 2022 and will be present at the virtual ASSA meetings in January 2022. <br/>
 <br/>  
   
@@ -12,7 +12,7 @@ My research primarily focuses on the long-run effects of health shocks, particul
   
 In addition to my research in early-life determinants, I am also interested in the determinants of physician practice structure and treatment styles. You can view my <a href="https://sethneller.github.io/research.html">research page</a> for current and upcoming projects. </p>
 
-# Fields
+## Fields
 <p style="font-size:80%;">
   <b>Primary:</b> Health Economics, Public Economics, Environmental Economics <br/>
 <b>Secondary:</b> Labor Economics, Economics of Crime
