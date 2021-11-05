@@ -70,4 +70,14 @@ title: Research
       <p align="justify" style="font-size:80%;"> Beginning in the mid-1970s, airborne lead levels began to decrease sharply due to environmental regulation that reduced the content of lead in gasoline and the improved vehicle emissions technology. However, the long-run benefits of near-elimination of lead emissions on economic outcomes and racial equality are not well understood. This project utilizes restricted Census and Social Security data to link adult outcomes to exact place of birth and related lead exposure to assess the impact of the phaseout of leaded gasoline on human capital achievement, earnings, and other measures of well-being. </p>
   </details>
   
+#### *From Classroom to Labor Market: The Divergent Paths of Black and White Americans [Part of Texas ERC Project #155]* <br/>
+<p style="font-size:70%;"><i> with <a href="https://anjalipverma.github.io/">Anjali P. Verma</a> and <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
+
+<details>
+ <summary style="font-size:80%;"> Project Summary </summary>
+     <p align="justify" style="font-size:80%;"> This project studies test-score and income gaps between Black and white Americans. We investigate these gaps using longitudinal administrative education and earnings records from the Texas Education Resource Center, focusing on a panel of children from recent cohorts (1986-91) who are observed continuously from 3rd grade through age 30. Our headline finding is that Black students performing at the 80th percentile of test scores have earnings in early adulthood similar to white students performing at the 20th percentile of test scores. We also find stark differences in the persistence of relative performance. Black students with low test scores are very likely to have low earnings, while white students with low test scores demonstrate much more upward mobility. Conversely, Black students with high test scores demonstrate a greater degree downward mobility than white students with high test scores. Ongoing work decomposes the gaps into differences in high school graduation, college enrollment, major choice, industry, and location. Our findings, although descriptive, appear inconsistent with a popular narrative that closing test-score gaps between Black and white Americans would substantially reduce the gaps that appear at later ages in labor market outcomes.
+ </p>
+  </details>
+
+  
 
