@@ -28,7 +28,6 @@ title: Research
 
 
 #### <a href="https://sethneller.github.io/papers/Practice_structure.pdf">*How Do Medicare Payments Influence Physician Practice Structure?*</a> 
-<p style="font-size:70%;"><i> (Under Review) </i></p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
