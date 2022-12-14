@@ -20,7 +20,7 @@ title: Research
 
 #### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> <br/>
 <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> and <a href="https://samstripling.com/">Sam Stripling</a> <br/>
- (Revise & Resubmit at AEJ: Applied) </i></p>
+ (Conditionally Accepted at AEJ: Applied) </i></p>
 
 
 <details>
