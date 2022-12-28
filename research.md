@@ -7,7 +7,7 @@ title: Research
 
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
-#### <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure*</a> <br/>
+#### <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure*</a> <br/>
  <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> <br/>
  (Under Review) </i></p>
 
