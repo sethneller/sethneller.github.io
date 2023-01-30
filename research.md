@@ -45,6 +45,9 @@ title: Research
 #### *Health System Choice: Evidence from Veterans with Dual Eligibility* <br/>
 <p style="font-size:70%;"><i> with <a href="https://www.marikacabral.com/">Marika Cabral</a> and <a href="https://web.stanford.edu/~chand04/">David C. Chan</a> </i></p>
   
+#### *How Does Where You Grow Up Affect How Long You Live? Evidence from Linked Census Data [Part of Census RDC Project #2603]* <br/>
+<p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
+  
 #### *From Classroom to Labor Market: The Divergent Paths of Black and White Americans [Part of Texas ERC Project #155]* <br/>
 <p style="font-size:70%;"><i> with <a href="https://anjalipverma.github.io/">Anjali P. Verma</a> and <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
   
