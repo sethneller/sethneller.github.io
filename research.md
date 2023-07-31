@@ -9,7 +9,7 @@ title: Research
 
 #### <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure*</a> <br/>
  <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> <br/>
- (Under Review) </i></p>
+ (Submitted) </i></p>
 
 
 <details>
@@ -20,7 +20,7 @@ title: Research
 
 #### <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> <br/>
 <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> and <a href="https://samstripling.com/">Sam Stripling</a> <br/>
- (Conditionally Accepted at AEJ: Applied) </i></p>
+ (Forthcoming at AEJ: Applied) </i></p>
 
 
 <details>
@@ -28,6 +28,15 @@ title: Research
     <p align="justify" style="font-size:80%;"> This paper identifies an important spillover associated with public health insurance: reduced incarceration. In 1990, Congress passed legislation that  increased Medicaid eligibility for individuals born after September 30, 1983. We show that Black children born just after the cutoff are 5 percent less likely to be incarcerated by age 28, driven primarily by a decrease in incarcerations connected to financially motivated offenses. Children of other races, who experienced almost no gain in Medicaid coverage as a result of the policy, demonstrate no such declines. We find that reduced incarceration in adulthood substantially offsets the initial costs of expanding eligibility. </p>
 </details>
 
+#### <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration*</a> <br/>
+<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/>
+(Revised and Resubmitted at The RAND Journal of Economics) </i></p>
+
+<details>
+ <summary style="font-size:80%;"> Abstract </summary>
+    <p align="justify" style="font-size:80%;"> In this paper, we examine the importance of individual physicians in explaining the significant variation in prescription drug spending in Medicare Part D. By tracking
+prescribing behavior before and after physician relocations, we find that movers’ prescribing converges toward the average of their new location. However, this convergence is far from complete, highlighting the importance of idiosyncratic physician-specific factors. Overall, these physician-specific factors explain about 60 to 70 percent of the cross-sectional variation in prescription drug spending, suggesting that physicians are one of the most important supply-side determinants of this variation. We investigate several potential mechanisms behind this partial convergence. </p>
+</details>
 
 #### <a href="https://sethneller.github.io/papers/Practice_structure.pdf">*How Do Medicare Payments Influence Physician Practice Structure?*</a> 
 
@@ -38,9 +47,6 @@ title: Research
 
 ***
 <h3 style="color:#bf5700;"> Work in Progress </h3>
-
-#### *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration* <br/>
-<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> </i></p>
 
 #### *Health System Choice: Evidence from Veterans with Dual Eligibility* <br/>
 <p style="font-size:70%;"><i> with <a href="https://www.marikacabral.com/">Marika Cabral</a> and <a href="https://web.stanford.edu/~chand04/">David C. Chan</a> </i></p>
