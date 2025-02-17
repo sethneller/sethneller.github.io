@@ -3,18 +3,18 @@ layout: default
 title: Home
 ---
 
-## About Me
+<h2> About Me </h2> 
 <p align="justify" style="font-size:80%;"> I am an Assistant Professor in the Department of Economics and in the Boyd Center for Business and Economic Research at the University of Tennessee. <br/>
 <br/>  
   
 My research primarily focuses on health economics, public economics, and demographic economics, with a particular interest in how childhood circumstances affect long-run outcomes. Here is my <a href="https://sethneller.github.io/neller_cv.pdf"> CV </a>.
 <br/>
   
-## Research
+<h2> Research </h2> 
 
 <h3 style="color:#bf5700;"> Published and R&R Papers  </h3>
 
-#### <a href="https://www.aeaweb.org/articles?id=10.1257/app.20200785">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> | <i> AEJ: Applied (2024) </i> <br/>
+<h4><a href="https://www.aeaweb.org/articles?id=10.1257/app.20200785">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> | <i> AEJ: Applied (2024) </i></h3> <br/>
 <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> and <a href="https://samstripling.com/">Sam Stripling</a> <br/>
 <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf"> [Pre-publication version] </a> </i></p>
 
@@ -23,7 +23,7 @@ My research primarily focuses on health economics, public economics, and demogra
     <p align="justify" style="font-size:80%;"> This paper identifies an important spillover associated with public health insurance: reduced incarceration. In 1990, Congress passed legislation that  increased Medicaid eligibility for individuals born after September 30, 1983. We show that Black children born just after the cutoff are 5 percent less likely to be incarcerated by age 28, driven primarily by a decrease in incarcerations connected to financially motivated offenses. Children of other races, who experienced almost no gain in Medicaid coverage as a result of the policy, demonstrate no such declines. We find that reduced incarceration in adulthood substantially offsets the initial costs of expanding eligibility. </p>
 </details>
 
-#### <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration*</a> | <i> Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i> <br/>
+<h4> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration*</a> | <i> Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i></h4> <br/>
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/> </p>
 
 <details>
@@ -34,7 +34,7 @@ prescribing behavior before and after physician relocations, we find that movers
 
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
-#### <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure*</a> <br/>
+<h4> <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure*</a> </h4> <br/> 
  <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> <br/>
 
 <details>
@@ -44,7 +44,7 @@ prescribing behavior before and after physician relocations, we find that movers
   </details>
 
 
-#### <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> *How Does Opioid Prevalence Affect Surgery Decisions?*</a> | <i> Submitted (Short Paper) </i> <br/>
+<h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> *How Does Opioid Prevalence Affect Surgery Decisions?*</a> | <i> Submitted (Short Paper) </i> </h4> <br/>
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/> </p>
 
 <details>
@@ -57,22 +57,9 @@ opioid exposure due to state policies that affected OxyContin’s marketing and 
 
 
 
-#### <a href="https://sethneller.github.io/papers/Practice_structure.pdf">*How Do Medicare Payments Influence Physician Practice Structure?*</a> 
+<h4> <a href="https://sethneller.github.io/papers/Practice_structure.pdf">*How Do Medicare Payments Influence Physician Practice Structure?*</a> </h4>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
     <p align="justify" style="font-size:80%;"> This paper exploits spatial discontinuities in Medicare payment rates to estimate the effect of reimbursements on primary care physicians’ choice of organizational structure. I find that a 1 percent increase in Medicare reimbursement leads to a 1.7 to 2.2 percentage point increase in primary care doctors who practice with a small group (defined as 25 providers or fewer). This effect is driven by changes in the tails of the practice size distribution: a 1.8 percentage point increase in physicians who are affiliated with the smallest (1- or 2-provider) practice groups with a corresponding decrease in physicians joining very large practices (≥ 150 providers). I do not, however, detect any evidence of physician sorting or bunching around the boundary in response to differential payment, supporting the underlying assumptions of my regression discontinuity design. Accordingly, my findings suggest that Medicare pricing may be a factor in the trend of consolidation in the physician and clinical services market. </p>
 </details>
-
-***
-<h3 style="color:#bf5700;"> Work in Progress </h3>
-
-#### *Health System Choice: Evidence from Veterans with Dual Eligibility* <br/>
-<p style="font-size:70%;"><i> with <a href="https://www.marikacabral.com/">Marika Cabral</a> and <a href="https://web.stanford.edu/~chand04/">David C. Chan</a> </i></p>
-  
-#### *How Does Where You Grow Up Affect How Long You Live? Evidence from Linked Census Data [Part of Census RDC Project #2603]* <br/>
-<p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
-  
-#### *From Classroom to Labor Market: The Divergent Paths of Black and White Americans [Part of Texas ERC Project #155]* <br/>
-<p style="font-size:70%;"><i> with <a href="https://anjalipverma.github.io/">Anjali P. Verma</a> and <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i></p>
-
