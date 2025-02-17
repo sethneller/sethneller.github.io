@@ -9,8 +9,6 @@ title: Home
   
 My research primarily focuses on health economics, public economics, and demographic economics, with a particular interest in how childhood circumstances affect long-run outcomes. Here is my <a href="https://sethneller.github.io/neller_cv.pdf"> CV </a>.
 <br/>
-
-<hr>
   
 ## Research
 
