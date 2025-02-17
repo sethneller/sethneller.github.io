@@ -42,7 +42,7 @@ prescribing behavior before and after physician relocations, we find that movers
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
 <h4> <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure</a> </h4>
- <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> <i/> </p>
+ <p style="font-size:70%;"> <i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
