@@ -9,6 +9,8 @@ title: Home
   
 My research primarily focuses on health economics, public economics, and demographic economics, with a particular interest in how childhood circumstances affect long-run outcomes. Here is my <a href="https://sethneller.github.io/neller_cv.pdf"> CV </a>.
 <br/>
+
+<hr>
   
 <h2> Research </h2> 
 
@@ -25,7 +27,7 @@ My research primarily focuses on health economics, public economics, and demogra
 </br>
 
 <h4> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration*</a> | <i> Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i></h4>
-<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a>
+<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
@@ -37,7 +39,7 @@ prescribing behavior before and after physician relocations, we find that movers
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
 <h4> <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure*</a> </h4>
- <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> <br/>
+ <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> <br/> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
@@ -46,7 +48,7 @@ prescribing behavior before and after physician relocations, we find that movers
 </br>
 
 <h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> *How Does Opioid Prevalence Affect Surgery Decisions?*</a> | <i> Submitted (Short Paper) </i> </h4>
-<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a>
+<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
