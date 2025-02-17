@@ -14,7 +14,7 @@ My research primarily focuses on health economics, public economics, and demogra
 
 <h3 style="color:#bf5700;"> Published and R&R Papers  </h3>
 
-<h4><a href="https://www.aeaweb.org/articles?id=10.1257/app.20200785">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> | <i> AEJ: Applied (2024) </i> </h4> <br/>
+<h4><a href="https://www.aeaweb.org/articles?id=10.1257/app.20200785">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> | <i> AEJ: Applied (2024) </i> </h4>
 <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> and <a href="https://samstripling.com/">Sam Stripling</a> <br/>
 <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf"> [Pre-publication version] </a> </i> </p>
 
@@ -23,7 +23,7 @@ My research primarily focuses on health economics, public economics, and demogra
     <p align="justify" style="font-size:80%;"> This paper identifies an important spillover associated with public health insurance: reduced incarceration. In 1990, Congress passed legislation that  increased Medicaid eligibility for individuals born after September 30, 1983. We show that Black children born just after the cutoff are 5 percent less likely to be incarcerated by age 28, driven primarily by a decrease in incarcerations connected to financially motivated offenses. Children of other races, who experienced almost no gain in Medicaid coverage as a result of the policy, demonstrate no such declines. We find that reduced incarceration in adulthood substantially offsets the initial costs of expanding eligibility. </p>
 </details>
 
-<h4> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration*</a> | <i> Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i></h4> <br/>
+<h4> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration*</a> | <i> Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i></h4>
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> </p>
 
 <details>
@@ -34,7 +34,7 @@ prescribing behavior before and after physician relocations, we find that movers
 
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
-<h4> <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure*</a> </h4> <br/> 
+<h4> <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> *Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure*</a> </h4>
  <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> <br/>
 
 <details>
@@ -44,7 +44,7 @@ prescribing behavior before and after physician relocations, we find that movers
   </details>
 
 
-<h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> *How Does Opioid Prevalence Affect Surgery Decisions?*</a> | <i> Submitted (Short Paper) </i> </h4> <br/>
+<h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> *How Does Opioid Prevalence Affect Surgery Decisions?*</a> | <i> Submitted (Short Paper) </i> </h4>
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/> </p>
 
 <details>
