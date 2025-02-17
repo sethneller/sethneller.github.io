@@ -29,7 +29,7 @@ American Economic Journal: Applied (2024) <br/>
 
 <h4> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration</a> </h4> 
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/>
-Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </p>
+Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i> </p>
 
 
 <details>
@@ -42,7 +42,7 @@ prescribing behavior before and after physician relocations, we find that movers
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
 <h4> <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure</a> </h4>
- <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> <br/> </p>
+ <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> <i/> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
@@ -52,7 +52,7 @@ prescribing behavior before and after physician relocations, we find that movers
 
 <h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> How Does Opioid Prevalence Affect Surgery Decisions?</a> </h4> 
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/> 
-Submitted (Short Paper) <br/> </p>
+Submitted (Short Paper) </i> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
