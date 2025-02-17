@@ -14,9 +14,9 @@ My research primarily focuses on health economics, public economics, and demogra
 
 <h3 style="color:#bf5700;"> Published and R&R Papers  </h3>
 
-<h4><a href="https://www.aeaweb.org/articles?id=10.1257/app.20200785">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> | <i> AEJ: Applied (2024) </i></h3> <br/>
+<h4><a href="https://www.aeaweb.org/articles?id=10.1257/app.20200785">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> | <i> AEJ: Applied (2024) </i> </h4> <br/>
 <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> and <a href="https://samstripling.com/">Sam Stripling</a> <br/>
-<a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf"> [Pre-publication version] </a> </i></p>
+<a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf"> [Pre-publication version] </a> </i> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
@@ -24,7 +24,7 @@ My research primarily focuses on health economics, public economics, and demogra
 </details>
 
 <h4> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration*</a> | <i> Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i></h4> <br/>
-<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/> </p>
+<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
