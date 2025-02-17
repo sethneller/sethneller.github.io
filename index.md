@@ -16,7 +16,7 @@ My research primarily focuses on health economics, public economics, and demogra
 
 <h3 style="color:#bf5700;"> Published and R&R Papers  </h3>
 
-<h4><a href="https://www.aeaweb.org/articles?id=10.1257/app.20200785">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> | <i> AEJ: Applied (2024) </i> </h4>
+<h4><a href="https://www.aeaweb.org/articles?id=10.1257/app.20200785">*The Impact of Youth Medicaid Eligibility on Adult Incarceration*</a> </h4> | <i> AEJ: Applied (2024) </i> 
 <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> and <a href="https://samstripling.com/">Sam Stripling</a> <br/>
 <a href="https://sethneller.github.io/papers/Medicaid_and_incarceration.pdf"> [Pre-publication version] </a> </i> </p>
 
@@ -26,7 +26,7 @@ My research primarily focuses on health economics, public economics, and demogra
 </details>
 <br/>
 
-<h4> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration*</a> | <i> Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i></h4>
+<h4> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> *What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration*</a> </h4> | <i> Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i>
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> </p>
 
 <details>
@@ -47,7 +47,7 @@ prescribing behavior before and after physician relocations, we find that movers
   </details>
 <br/>
 
-<h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> *How Does Opioid Prevalence Affect Surgery Decisions?*</a> | <i> Submitted (Short Paper) </i> </h4>
+<h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> *How Does Opioid Prevalence Affect Surgery Decisions?*</a> </h4> | <i> Submitted (Short Paper) </i> 
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> </p>
 
 <details>
