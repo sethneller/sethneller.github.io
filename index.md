@@ -29,7 +29,7 @@ American Economic Journal: Applied (2024) <br/>
 
 <h4> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration</a> </h4> 
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/>
-Revised and Resubmitted (2nd Round) at The RAND Journal of Economics </i> </p>
+Accepted at The RAND Journal of Economics </i> </p>
 
 
 <details>
