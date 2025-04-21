@@ -14,7 +14,7 @@ My research primarily focuses on health economics, public economics, and demogra
   
 <h2> Research </h2> 
 
-<h3 style="color:#bf5700;"> Published and R&R Papers  </h3>
+<h3 style="color:#bf5700;"> Published and Accepted Papers  </h3>
 
 <h4><a href="https://www.aeaweb.org/articles?id=10.1257/app.20200785">The Impact of Youth Medicaid Eligibility on Adult Incarceration</a> </h4>  
 <p style="font-size:70%;"><i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> and <a href="https://samstripling.com/">Sam Stripling</a> <br/>
@@ -39,6 +39,18 @@ prescribing behavior before and after physician relocations, we find that movers
 </details>
 <br/>
 
+
+<h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> How Does Opioid Prevalence Affect Surgery Decisions?</a> </h4> 
+<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/> 
+Accepted at Economics Letters </i> </p>
+
+<details>
+ <summary style="font-size:80%;"> Abstract </summary>
+    <p align="justify" style="font-size:80%;"> This paper studies how the prevalence of opioids affects joint physician-patient decisions over medical procedures. Following Alpert et al. (2022), we utilize variation in
+opioid exposure due to state policies that affected OxyContin’s marketing and market entry. Our results suggest that higher availability of opioids led to a substantial (21%) increase in the number of elective surgical discharges, such as knee replacements, hip replacements, and back surgeries. We also consider effects for non-elective surgical discharges—procedures where we expect a much smaller response to the availability of opioids—and find a statistically insignificant increase of 1%. Finally, we investigate medical discharges—procedures where no response is expected—and find no detectable effect. This increase in elective procedures is consistent with a model of physician behavior that incorporates patient pain and post-surgical well-being into surgical decisions and where decreases in the “hassle” of prescribing pain-reducing medication pushes marginal patients to undergo surgeries that they might not otherwise elect. Our results highlight an important tradeoff: while liberal opioid prescribing has led to widespread misuse and abuse, the availability of opioids may allow some patients to undergo quality-of-life improving surgeries that would otherwise be too painful. </p>
+</details>
+<br/>
+
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
 <h4> <a href="https://sethneller.github.io/papers/Ashes_to_Ashes_Working_Paper.pdf"> Ashes to Ashes: The Lifelong Consequences of Early-Life Wildfire Exposure</a> </h4>
@@ -49,19 +61,6 @@ prescribing behavior before and after physician relocations, we find that movers
       <p align="justify" style="font-size:80%;"> This paper assesses the impact of in utero and early-childhood exposure to wildfire smoke on longevity as well as economic achievement, human capital accumulation, and disability in mid-to-late adulthood. To identify areas that were exposed to wildfire pollution, we leverage mid-20th century (1930-1969) California wildfires and smoke dispersion modeling. We then combine these wildfire pollution data with comprehensive, restricted-use administrative data from the Social Security Administration and Census Bureau.  These linked data allow us to measure childhood wildfire smoke exposure for four decades of birth cohorts and to observe a rich set of later-life outcomes. Using these data, we exploit plausibly exogenous variation in smoke exposure--which is a function of fire timing and size as well as wind direction and speed--to identify long-run effects. We find that moving from the 25th to 75th percentile of early-life wildfire smoke exposure results in 1.7 additional deaths before age 55 per 1,000 individuals, conditional on surviving past early childhood. Aggregating these effects across ages 30 to 80 translates to 46 life years lost per 1,000 persons. We further find that smoke exposure results in unfavorable changes to a wide range of later-life outcomes across economic achievement, educational attainment, and disability measures. From these results, we estimate that each child born in California during our sample period sustained, on average, approximately $22,000 of discounted damages in lost life expectancy and lost earnings due to wildfire smoke. These findings suggest that warming temperatures, which exacerbate the duration and intensity of wildfire seasons, are already meaningfully affecting the life cycles of exposed children through increased smoke exposure. </p>
   </details>
 <br/>
-
-<h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> How Does Opioid Prevalence Affect Surgery Decisions?</a> </h4> 
-<p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/> 
-Submitted (Short Paper) </i> </p>
-
-<details>
- <summary style="font-size:80%;"> Abstract </summary>
-    <p align="justify" style="font-size:80%;"> This paper studies how the prevalence of opioids affects joint physician-patient decisions over medical procedures. Following Alpert et al. (2022), we utilize variation in
-opioid exposure due to state policies that affected OxyContin’s marketing and market entry. Our results suggest that higher availability of opioids led to a substantial (21%) increase in the number of elective surgical discharges, such as knee replacements, hip replacements, and back surgeries. We also consider effects for non-elective surgical discharges—procedures where we expect a much smaller response to the availability of opioids—and find a statistically insignificant increase of 1%. Finally, we investigate medical discharges—procedures where no response is expected—and find no detectable effect. This increase in elective procedures is consistent with a model of physician behavior that incorporates patient pain and post-surgical well-being into surgical decisions and where decreases in the “hassle” of prescribing pain-reducing medication pushes marginal patients to undergo surgeries that they might not otherwise elect. Our results highlight an important tradeoff: while liberal opioid prescribing has led to widespread misuse and abuse, the availability of opioids may allow some patients to undergo quality-of-life improving surgeries that would otherwise be too painful. </p>
-</details>
-<br/>
-
-
 
 
 <h4> <a href="https://sethneller.github.io/papers/Practice_structure.pdf">How Do Medicare Payments Influence Physician Practice Structure?</a> </h4>
