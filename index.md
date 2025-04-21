@@ -40,7 +40,7 @@ prescribing behavior before and after physician relocations, we find that movers
 <br/>
 
 
-<h4> <a href="https://sethneller.github.io/papers/Opiod_and_Surgeries.pdf"> How Does Opioid Prevalence Affect Surgery Decisions?</a> </h4> 
+<h4> <a href="https://sethneller.github.io/papers/Opioid_and_Surgeries.pdf"> How Does Opioid Prevalence Affect Surgery Decisions?</a> </h4> 
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/> 
 Accepted at Economics Letters </i> </p>
 
