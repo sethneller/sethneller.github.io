@@ -7,7 +7,7 @@ title: Home
 <p align="justify" style="font-size:80%;"> I am an Assistant Professor in the Department of Economics and in the Boyd Center for Business and Economic Research at the University of Tennessee. <br/>
 <br/>  
   
-My research primarily focuses on health economics, public economics, and demographic economics, with a particular interest in how childhood circumstances affect long-run outcomes. Here is my <a href="https://sethneller.github.io/neller_cv.pdf"> CV </a>.
+My research primarily focuses on health economics, public economics, and demographic economics. Here is my <a href="https://sethneller.github.io/neller_cv.pdf"> CV </a>.
 <br/>
 
 <hr>
@@ -31,6 +31,16 @@ My research primarily focuses on health economics, public economics, and demogra
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
       <p align="justify" style="font-size:80%;"> This paper examines the choice between public and private healthcare systems among elderly veterans, who are dually eligible to obtain care through the publicly operated Veterans Health Administration (VA) and through private providers financed by Medicare. We analyze health system choice among veterans who move across areas with differing rates of VA utilization to quantify the relative importance of individual-specific factors (e.g., preferences, income, health) and place-specific factors (e.g., local access, quality, and convenience). Our estimates indicate that 50–60\% of geographic variation in VA use is attributable to demand-side individual factors, with the remainder explained by place-based factors. We also document important heterogeneity across types of care, with place-based factors playing a larger role for inpatient and emergency care than for outpatient and primary care. Additional analysis suggests that the supply-side features emphasized in recent legislation—distance to VA facilities and wait times—explain only a small share of estimated place effects. These findings highlight the importance of individual factors in health system choice and have implications for policies aimed at reducing geographic disparities in VA utilization.
+ </p>
+  </details>
+<br/>
+
+<h4> <a href="https://sethneller.github.io/papers/BlackWhiteGap.pdf"> The Distinct Trajectories of Black and White Students with Identical Achievement </a> </h4>
+ <p style="font-size:70%;"> <i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> and <a href="https://anjalipverma.github.io/research/">Anjali Verma</a> </i> </p>
+
+<details>
+ <summary style="font-size:80%;"> Abstract </summary>
+      <p align="justify" style="font-size:80%;"> We bring new data to the longstanding achievement gap between Black and white children in the United States. Constructing a panel of nearly half a million children tracked from kindergarten through age 30, we first highlight the stark differences in test scores between Black and white students, particularly at the extremes. In the lowest achieving one percent of all test takers, for example, Black students outnumber white students three-to-one. In the top one percent, white students outnumber Black students fifty-to-one. We then compare the outcomes of students with the same test scores, which provides useful context for other racial disparities in the United States. We show, for example, that Black students with high levels of achievement are substantially less likely than White students with the same scores to be in gifted programs. At the same time, Black students with low test scores are substantially less likely to be in special education programs. We show that Black students with low test scores, and only Black students with low test scores, are more likely than their white counterparts to drop out of high school. Across the distribution of achievement, Black students, relative to white students with the same achievement, are nonetheless more likely to enroll in college. However, they are still significantly less likely to complete a college degree of any kind. We also show that Black students, at any given level of achievement, which is often regarded as a level of skill, earn substantially lower wages than their white counterparts, nearly \$10,000 less annually, a gap that bears almost exclusively on Black men. None of these disparities conditional on test scores, can be fully explained, or even mostly explained, by schools: Substantial differences exist between Black and white students who obtained the same scores while attending the same schools.
  </p>
   </details>
 <br/>
