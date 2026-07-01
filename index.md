@@ -16,7 +16,7 @@ My research primarily focuses on health economics, public economics, and demogra
 
 <h3 style="color:#bf5700;"> Working Papers </h3>
 
-<h4> Medicare and Mortality </h4>
+<h4> <a href="https://sethneller.github.io/papers/Medicare_Mortality.pdf"> Medicare and Mortality </a> </h4>
  <p style="font-size:70%;"> <i> with <a href="https://samuelarenberg.com/">Sam Arenberg</a> </i> </p>
 
 <details>
