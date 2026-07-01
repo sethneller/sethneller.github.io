@@ -1,7 +1,7 @@
 # Setup
 title:            Seth Neller
 tagline:          Home
-description:      <p style="font-size:68%;"> Assistant Professor <br/> Department of Economics and <br/> Boyd Center for Business & Economic Research <br/> University of Tennessee </br> </br> sneller@utk.edu </p>
+description:      <p style="font-size:65%;"> Assistant Professor <br/> Department of Economics and <br/> Boyd Center for Business & Economic Research <br/> University of Tennessee </br> </br> sneller@utk.edu </p>
 url:              https://sethneller.github.io
 baseurl:          ''
 paginate:         5
