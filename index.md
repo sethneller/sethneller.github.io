@@ -59,7 +59,7 @@ My research primarily focuses on health economics, public economics, and demogra
 <h4> <a href="https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.70069"> What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration</a> </h4> 
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/>
 The RAND Journal of Economics (2026) </i> <br/>
-<a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> [Pre-publication version] </a> </i> </p>
+<i> <a href="https://sethneller.github.io/papers/beheshti_neller_physician_prescribing.pdf"> [Pre-publication version] </a> </i> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
@@ -72,7 +72,7 @@ prescribing behavior before and after physician relocations, we find that movers
 <h4> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165176525001958"> How Does Opioid Prevalence Affect Surgery Decisions?</a> </h4> 
 <p style="font-size:70%;"><i> with <a href="https://sites.google.com/view/davidbeheshti">David Beheshti</a> <br/> 
 Accepted at Economics Letters (2025) </i> <br/>
-<a href="https://sethneller.github.io/papers/Opioid_and_Surgeries.pdf"> [Pre-publication version] </a> </i> </p>
+<i> <a href="https://sethneller.github.io/papers/Opioid_and_Surgeries.pdf"> [Pre-publication version] </a> </i> </p>
 
 <details>
  <summary style="font-size:80%;"> Abstract </summary>
