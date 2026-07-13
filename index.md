@@ -25,7 +25,7 @@ My research primarily focuses on health economics, public economics, and demogra
   </details>
 <br/>
 
-<h4> <a href="https://sethneller.github.io/papers/VA_Choice.pdf"> Choice Between Public and Private Healthcare Systems: Evidence from Veterans </a> </h4>
+<h4> <a href="https://www.nber.org/papers/w35440"> Choice Between Public and Private Healthcare Systems: Evidence from Veterans </a> </h4>
  <p style="font-size:70%;"> <i> with <a href="https://www.marikacabral.com/">Marika Cabral</a> and <a href="https://haas.berkeley.edu/faculty/david-chan/">David Chan</a> </i> </p>
 
 <details>
